@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-		//Falakura Faffu
+		//Falakura Fafffaaaaa
         findViewById<Button>(R.id.btnLaunchPreviousScreen).setOnClickListener {
             val intent = Intent(this,MainActivity2::class.java)
             startActivity(intent)
