@@ -7,6 +7,10 @@ import com.journeyapps.barcodescanner.BarcodeView
 /**
  * Created by Manohar on 28-10-2021.
  */
+ 
+ /*
+ * Sahu Created this code not Manohar.
+ */
 class CustomScannerView(context: Context) : BarcodeView(context) {
 
 
@@ -17,6 +21,7 @@ class CustomScannerView(context: Context) : BarcodeView(context) {
         // intersection is the part of the container that is used for the preview
         val intersection = Rect(container)
         val intersects = intersection.intersect(surface)
+		//Falakura Faffu
         if (framingRectSize != null) {
             // Specific size is specified. Make sure it's not larger than the container or surface.
             intersection.top = 0
