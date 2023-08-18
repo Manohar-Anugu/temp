@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Moschip/Projects/Test/app/src/main/res/drawable/ic_battery.xml" value="0.36615384615384616" />
+        <entry key="..\:/Moschip/Projects/Test/app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="..\:/Moschip/Projects/Test/app/src/main/res/layout/custom_barcode_scanner.xml" value="0.24010416666666667" />
+        <entry key="..\:/Moschip/Projects/Test/app/src/main/res/layout/fragment_qr_code_reader.xml" value="0.25416666666666665" />
+        <entry key="..\:/Moschip/Projects/Test/app/src/main/res/layout/fragment_qr_scanner_v2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Moschip/Projects/Test/app/src/main/res/layout/main_activity.xml" value="0.3398148148148148" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
